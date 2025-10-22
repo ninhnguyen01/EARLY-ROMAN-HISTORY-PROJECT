@@ -43,3 +43,14 @@
 <p>(1) Commercium (e.g., origin of the word commerce) - Right to own Roman land, slaves, cattle, and to inherit from Romans</p>
 <p>(2) Conubium (e.g., origin of the word concubine) - Right to intermarry with Roman citizens</p>
 <p>(3) Ius migrandi (e.g., ius = "legal rights", migrandi = "migration") - Right to live in Roman territory</p>
+
+<h3>Optimates</h3>
+<p> (1) Supporters of senatorial power (e.g., rich politicians, families, and businesses)</p>
+<p> (2) Usually members of the patrician class (E.g. Sulla, Cato the Younger, Pompey [ at the end ])</p>
+
+<h3>Populares</h3>
+<p> (1) Supporters of reforms favoring plebeian (common people) interests</p>
+<p> (2) Included many aristocrats and senators, as well as novi homines (E.g. the Gracchi, Marius, Julius Caesar)</p>
+
+<h3>The Last Word (post-Republic)</h3>
+<p>“At home all was calm. The officials carried the older names; the younger men had been born after the victory of Actium; most even of the elder generation, during the civil wars; few indeed were left who had seen the republic.” - Tacitus, Annals 1.3.7</p>
