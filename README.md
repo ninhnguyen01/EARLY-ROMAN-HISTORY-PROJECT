@@ -1,5 +1,5 @@
 # Early-Roman-History-Project
-<h2>Roman Social Order:</h2>
+<h2>Roman Social Order</h2>
 <h3>Senate (wealthy male citizens from old families [ not elected ]): </h3>
 <p>Magistrates who governed the republic:</p>
 <p>(1) Consuls (chief executives)</p>
@@ -21,7 +21,7 @@
 <p>(4) Assign heirs</p>
 <p>(5) Kill his children or sell them into slavery</p>
 
-<h2>Forms of Roman Marriage:</h2>
+<h2>Forms of Roman Marriage</h2>
 <h3>Cum manu (With hand):</h3>
 <p>(1) Oldest form of Roman marriage</p>
 <p>(2) Woman became subject to her husband’s paterfamilias</p>
