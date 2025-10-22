@@ -28,7 +28,7 @@
 <p>(3) Only the husband could initiative divorce</p>
 <p>(4) Dowry became part of her husband’s family’s property</p>
 
-<h3>Sine manu (without hand):</h3>
+<h3>Sine manu (Without hand):</h3>
 <p>(1) Developed in the mid-republic and became increasingly common thereafter</p>
 <p>(2) Woman remained subject to her paterfamilias</p>
 <p>(3) Either party could initiative divorce</p>
