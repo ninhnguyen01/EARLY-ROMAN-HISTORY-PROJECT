@@ -1,2 +1,45 @@
-# Early_Roman_History_Project
-HISTORIA ROMANA ET CULTURA
+# Early-Roman-History-Project
+<h2>Roman Social Order:</h2>
+<h3>Senate (wealthy male citizens from old families [ not elected ]): </h3>
+<p>Magistrates who governed the republic:</p>
+<p>(1) Consuls (chief executives)</p>
+<p>(2) Censors (responsible for public morality)</p>
+<p>(3) Praetors (management of city affairs)</p>
+<p>(4) Quaestors (finance)</p>
+<p>(5) Aediles (infrastructure)</p>
+
+<h3>Plebeian Council (Common people): </h3>
+<p>(1) Comprised of the ‘plebs;’ the general populace of male citizens</p>
+<p>(2) Elected tribunes to represent them</p>
+<p>(3) Could approve or veto laws passed by the senate</p>
+
+<h2>The Paterfamilias (Head of the family - highest ranking male)</h2>
+<p>Had the right to:<p>
+<p>(1) Acknowledge as child as his offspring</p>
+<p>(2) Approve marriages</p>
+<p>(3) Compel divorces</p>
+<p>(4) Assign heirs</p>
+<p>(5) Kill his children or sell them into slavery</p>
+
+<h2>Forms of Roman Marriage:</h2>
+<h3>Cum manu (With hand):</h3>
+<p>(1) Oldest form of Roman marriage</p>
+<p>(2) Woman became subject to her husband’s paterfamilias</p>
+<p>(3) Only the husband could initiative divorce</p>
+<p>(4) Dowry became part of her husband’s family’s property</p>
+
+<h3>Sine manu (without hand):</h3>
+<p>(1) Developed in the mid-republic and became increasingly common thereafter</p>
+<p>(2) Woman remained subject to her paterfamilias</p>
+<p>(3) Either party could initiative divorce</p>
+<p>(4) Woman retained control of her dowry</p>
+
+<h3>Virtues</h3>
+<p>(1) Concordia - The quality of living in harmony with one’s family, especially one’s spouse</p>
+<p>(2) Gravitas - Seriousness, solemnity, wisdom and proverbial weightiness</p>
+<p>(3) Pietas - Showing proper respect to the gods and to one’s father</p>
+
+<h3>Latin Rights (Roman Colonies)</h3>
+<p>(1) Commercium (e.g., origin of the word commerce) - Right to own Roman land, slaves, cattle, and to inherit from Romans</p>
+<p>(2) Conubium (e.g., origin of the word concubine) - Right to intermarry with Roman citizens</p>
+<p>(3) Ius migrandi (e.g., ius = "legal rights", migrandi = "migration") - Right to live in Roman territory</p>
