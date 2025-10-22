@@ -39,6 +39,11 @@
 <p>(2) Gravitas - Seriousness, solemnity, wisdom and proverbial weightiness</p>
 <p>(3) Pietas - Showing proper respect to the gods and to one’s father</p>
 
+<h3>Religion</h3>
+<p>(1) Sacra et auspicia = ‘cults and divination’ (Cicero)</p>
+<p>(2) Cult - a particular system of religious worship, especially with reference to rites and ceremonies.</p>
+<p>(3) Divination - the practice of attempting to foretell future events or discover hidden knowledge by occult or supernatural means. Augury or prophecy.</p>
+
 <h3>Latin Rights (Roman Colonies)</h3>
 <p>(1) Commercium (e.g., origin of the word commerce) - Right to own Roman land, slaves, cattle, and to inherit from Romans</p>
 <p>(2) Conubium (e.g., origin of the word concubine) - Right to intermarry with Roman citizens</p>
